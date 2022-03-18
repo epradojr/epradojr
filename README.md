@@ -2,7 +2,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=epradojr)
 <br></br>
-<img height="225" src=images\data_science.png>
+<img src=images\data_science.png>
 # <b>Hello, friend!</b> 👋
 
 
