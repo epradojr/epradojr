@@ -3,10 +3,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=epradojr)
 <br></br>
 <img height="225" src=images\data_science.png>
-# <b>Hi! I'm Eddie!</b> 👋
+# <b>Hello, friend!</b> 👋
 
 
-I'm a father, husband, and data scientist! I am from the IL, USA and currently working on honing my machine learning skills and keeping up on latest data news.
+My name is Edel but I go by Eddie. I'm a father, husband, and data scientist! I am from the IL, USA and currently working on honing my machine learning skills and keeping up on latest data news.
 
 ### <b>Professional Background:</b>
 
